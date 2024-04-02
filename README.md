@@ -1,1 +1,2 @@
-# Basic-Chat-App
+# BasicChatApp
+AI based basic ChatApp
